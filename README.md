@@ -1,2 +1,5 @@
-# cs464_hws
- Bilkent CS464 - Introduction to Machine Learning course homeworks for 2023-2024 Fall
+### cs464_hws
+* HW1: 98/100
+* HW2: 98/100
+* HW3: 100/100
+
